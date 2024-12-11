@@ -1,0 +1,12 @@
+node_modules
+
+coverage
+TESTS*.xml
+dist
+results
+
+.DS_Store
+*debug.log
+.vscode
+.env
+*.http
